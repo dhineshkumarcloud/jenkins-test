@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "testing trigger"
+echo "testing trigger123"
 date
