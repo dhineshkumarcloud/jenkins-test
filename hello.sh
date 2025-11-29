@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "testing trigger123"
+echo "Jenkins Auto Deployement Testing 29-11-25"
 date
